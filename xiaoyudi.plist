@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://210.21.237.245:8170/msales/Icon-60@2x.png</string>
+            <string>http://7xp83p.dl1.z0.glb.clouddn.com/xiaoyudi-logo-iosi.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://210.21.237.245:8170/msales/Icon.png</string>
+            <string>http://7xp83p.dl1.z0.glb.clouddn.com/xiaoyudi-logo-iosi.png</string>
           </dict>
         </array>
         <key>metadata</key>
